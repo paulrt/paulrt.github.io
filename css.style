@@ -1,3 +1,11 @@
+nav a {
+  display: flex;
+  width: 80%;
+  padding: auto;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  
+
 .banner img {
   display: flex;
   margin: 0 auto;
