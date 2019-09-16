@@ -23,9 +23,9 @@
       <h1>Paul Theriault</h1>
       <h2>Full Stack Web Developer</h2>
       <p><em>HTML5, CSS, JavaScript, jquery, node.js, React, repl.it, GitHub, bash, PowerShell, and more.</em></p>
-        
-    
-    </section>
+    </div>     
+    <div class=
+   </section>
 
 </body>
 </html> 
