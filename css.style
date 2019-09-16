@@ -1,0 +1,8 @@
+.banner {
+  display: flex;
+  margin: 0 auto;
+  padding: auto;
+  width: 100%;
+  height: 15%;
+  justify-content: center;
+}
